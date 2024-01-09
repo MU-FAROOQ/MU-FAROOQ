@@ -6,7 +6,7 @@
 
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478y093q8w39tkl9m0uejpexuqo4sir3ioroknwn4n&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<!--<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478y093q8w39tkl9m0uejpexuqo4sir3ioroknwn4n&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <h3 align="left">About me:</h3>
 
@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **test**
 - 👨‍💻 All of my projects are available on my [github](https://github.com/MU-FAROOQ)
 - 📄 Know about my experiences [test](test)
-- ⚡ Fun fact **test**
+- ⚡ Fun fact **test**-->
 
 <br>
 <h3 align="left">Connect with me:</h3>
